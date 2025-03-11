@@ -28,6 +28,8 @@ This is a Burp Suite extension that notifies you via Gmail when a Task Scan is c
 ## Note
 A completion email will also be sent for scans not created by the user (e.g., scans triggered by other extensions or default passive crawling). To avoid unnecessary emails, turn on the "Scanned Notify" tab's Enable option only when needed.
 
+Additionally, if an upstream proxy is configured, the email sending request to Gmail may pass through the proxy. Please ensure proper handling of this.
+
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the project's GitHub repository.
 
