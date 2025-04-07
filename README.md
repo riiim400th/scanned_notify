@@ -1,5 +1,8 @@
 # Scanned Notify
 
+![image](https://github.com/user-attachments/assets/29326704-2458-4ecd-bb81-be74139092a7)
+
+
 ## Overview
 This is a Burp Suite extension that notifies you via Gmail when a Task Scan is complete.
 
